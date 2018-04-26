@@ -1,0 +1,19 @@
+.navbar-custom {
+    background-color: #B29F8F;
+}
+h1 {
+    font-family: 'Euphoria Script', cursive;
+}
+
+h1, p {
+    text-align: center;
+    vertical-align: center;
+}
+
+p {
+    text-align: center;
+}
+.main {
+    background-color: #DCA541;
+    height: 600px;
+}
